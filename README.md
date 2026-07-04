@@ -6,7 +6,7 @@ An end-to-end **Natural Language Processing (NLP)** project that predicts the ne
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange)
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
 
-## Highlights (for portfolio / resume)
+## Highlights 
 
 - Built a complete NLP pipeline: text cleaning → tokenization → sequence modeling → inference
 - Designed an **Embedding + LSTM + Softmax** architecture for multi-class next-word prediction
