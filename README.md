@@ -14,8 +14,6 @@ An end-to-end **Natural Language Processing (NLP)** project that predicts the ne
 - Deployed a polished **Streamlit demo** with next-word ranking and text generation
 - Modular codebase with separate training, inference, and UI layers
 
-**Resume bullet:**
-> Built an LSTM-based Next Word Predictor on 3K+ quotes with TensorFlow/Keras, achieving strong training accuracy through embedding + sequence modeling, and deployed an interactive Streamlit demo for real-time prediction and text generation.
 
 ## Demo features
 
@@ -122,10 +120,4 @@ print(word)       # e.g. implying
 print(top_k[:3])  # top 3 suggestions with scores
 ```
 
-## Author
 
-Add your name, GitHub link, and LinkedIn here before publishing to your portfolio.
-
-## License
-
-MIT — free to use for learning and portfolio purposes.
