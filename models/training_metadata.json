@@ -1,0 +1,13 @@
+{
+  "trained_at": "2026-07-03T08:17:07.374573+00:00",
+  "epochs": 3,
+  "batch_size": 128,
+  "validation_split": 0.1,
+  "num_quotes": 3038,
+  "num_training_samples": 85270,
+  "max_sequence_length": 745,
+  "final_train_accuracy": 0.07823514938354492,
+  "final_val_accuracy": 0.08772135525941849,
+  "final_train_loss": 6.071530342102051,
+  "final_val_loss": 6.460729122161865
+}
